@@ -128,3 +128,16 @@ site/manuals.html
 .project-validation/
 projects/*/solution/output/
 projects/*/solution/demo-output/
+
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.model
+__pycache__/
+.venv/
+.DS_Store
+Thumbs.db
+*:OECustomProperty
+
